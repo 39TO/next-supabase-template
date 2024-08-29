@@ -25,8 +25,8 @@ export default function AuthenticationPage() {
             <div className="block items-center justify-center self-center md:flex lg:hidden">
               <Image src="/icon.png" alt="logo" width={48} height={48} />
             </div>
-            <div className="flex flex-col space-y-2 text-center">
-              <h1 className="font-semibold tracking-tight text-2xl">
+            <div className="flex flex-col text-center space-y-2">
+              <h1 className="text-2xl font-semibold tracking-tight">
                 Login with Email
               </h1>
             </div>
